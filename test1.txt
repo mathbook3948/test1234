@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 tesfdsiufhwuksfhukshdkf
 dfagadflkgjol
 4asdflikasfdj
 SADOFHIUASGEHFI;KLJDCH
 asdfadfpifdghjkldfjgnkl
+=======
+테스트
+dsofdisdfghikuj
+>>>>>>> 5dcc4c2bce91be68eac5b4f5d7b1382cd8971d2c
